@@ -15,6 +15,5 @@
 {{ Form::submit('Verzenden') }}
 
 </div>
-
     {{ Form::close()}}
 </div>
